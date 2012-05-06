@@ -3,7 +3,17 @@
 
 
 /* TEAM */
-  <your title>: <your name>
+  Elif Betul Bayrasli
+  Site: elifbayrasli.com
+  Twitter:  @eatsleepwebcom
+  Location: Brooklyn, NY
+
+  Bassam Tariq
+  Site:
+  Twitter:
+  Location:
+
+  Robbie Wenger
   Site:
   Twitter:
   Location:
